@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page6.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -589,7 +589,7 @@
           "_params": {
             "imageSize": "35",
             "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1a1a43d1657c1adc50ec25a3f8613a04-1400x1733.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1510036816-22352362-1988849478049991-2695735652103749632-n-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1083,14 +1083,14 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "3",
+            "imageSize": "29",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1112,7 +1112,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/125703380-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/125703292-1400x2102.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1131,7 +1131,7 @@
             }
           },
           "title": "หวางจื่อเวย (王梓薇 )&nbsp;",
-          "text": "&lt;รับบท หลินจิ้งเสี่ยวหรือจิงจิง เป็นเพื่อนสนิทนาเอก นิสัยห้าวๆไม่ยอมคน รักเพื่อน เรียงเก่ ตอนโตเป็นนักดาราศาสตร์&gt;",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;รับบท หลินจิ้งเสี่ยวหรือจิงจิง เป็นเพื่อนสนิทนาเอก นิสัยห้าวๆไม่ยอมคน รักเพื่อน เรียนเก่ง ตอนโตเป็นนักดาราศาสตร์&gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1181,16 +1181,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/125703348-2000x2000-800x800.png",
-                "image": "@PROJECT_PATH@/assets/images/125703348-2000x2000.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -1414,16 +1404,6 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321-800x528.png",
-                "image": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1450,6 +1430,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247-800x498.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125640708-2000x1500-800x600.png",
+                "image": "@PROJECT_PATH@/assets/images/125640708-2000x1500.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1670,16 +1660,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860-800x344.jpg",
                 "image": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500-800x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500.jpg",
-                "caption": "Type caption here",
                 "active": true
               },
               {
@@ -1703,7 +1683,7 @@
                 "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "4",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
