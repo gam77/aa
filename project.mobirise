@@ -179,7 +179,7 @@
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/2-2000x1332.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -187,7 +187,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0",
+            "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "inverse": true,
             "showTitle": true,
@@ -587,7 +587,7 @@
           },
           "_anchor": "msg-box5-1n",
           "_params": {
-            "imageSize": "45",
+            "imageSize": "35",
             "paddingTop": "3",
             "paddingBottom": "1",
             "parallax": true,
@@ -611,7 +611,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x1004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1a1a43d1657c1adc50ec25a3f8613a04-1400x1733.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1083,14 +1083,14 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "text-align": "center"
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-2i",
           "_params": {
-            "imageSize": "51",
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "imageSize": 50,
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/142-2000x909.jpg",
@@ -1112,7 +1112,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3813671-5a35157fb22e6-big-1400x735.jpg",
+              "src": "@PROJECT_PATH@/assets/images/125703380-1400x933.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1131,7 +1131,7 @@
             }
           },
           "title": "หวางจื่อเวย (王梓薇 )&nbsp;",
-          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &lt;รับบท หลินจิ้งเสี่ยวหรือจิงจิง เป็นเพื่อนสนิทนาเอก นิสัยห้าวๆไม่ยอมคน รักเพื่อน เรียนเก่ง ตอนโตเป็นนักดาราศาสตร์&gt;",
+          "text": "&lt;รับบท หลินจิ้งเสี่ยวหรือจิงจิง เป็นเพื่อนสนิทนาเอก นิสัยห้าวๆไม่ยอมคน รักเพื่อน เรียงเก่ ตอนโตเป็นนักดาราศาสตร์&gt;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -1183,6 +1183,16 @@
                 "image": "@PROJECT_PATH@/assets/images/1510669101-3321055717-n-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/125703371-2000x1118-800x447.png",
+                "image": "@PROJECT_PATH@/assets/images/125703371-2000x1118.png",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
@@ -1404,6 +1414,16 @@
             "paddingBottom": 1,
             "images": [
               {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321-800x528.png",
+                "image": "@PROJECT_PATH@/assets/images/7-20171116161115-kdeok-2000x1321.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -1430,16 +1450,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247-800x498.jpg",
                 "image": "@PROJECT_PATH@/assets/images/1510647974417451-2000x1247.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/og-2000x1050-800x420.jpg",
-                "image": "@PROJECT_PATH@/assets/images/og-2000x1050.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1596,7 +1606,7 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-2s",
           "_params": {
-            "imageSize": "53",
+            "imageSize": "51",
             "paddingTop": "4",
             "paddingBottom": "3",
             "parallax": true,
@@ -1620,7 +1630,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/qif1511772947-1400x602.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sobeau-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1660,6 +1670,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860-800x344.jpg",
                 "image": "@PROJECT_PATH@/assets/images/qif1511772947-2000x860.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p04vrg4xdg6cl1mils7-o-2000x2500.jpg",
+                "caption": "Type caption here",
                 "active": true
               },
               {
@@ -1683,7 +1703,7 @@
                 "active": false
               }
             ],
-            "spacing": "4",
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
